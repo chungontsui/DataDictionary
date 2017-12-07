@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataDictionary", "DataDicti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataDictionary.Tests", "DataDictionary.Tests\DataDictionary.Tests.csproj", "{F900842E-C32A-4E35-B9E5-D32C05663DAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataDictionary.DataAccess", "..\DataDictionary.DataAccess\DataDictionary.DataAccess.csproj", "{B073DD52-C15E-42BC-A4EC-DC0150B27C39}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataDictionary.DataAccess", "DataDictionary.DataAccess\DataDictionary.DataAccess.csproj", "{B073DD52-C15E-42BC-A4EC-DC0150B27C39}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

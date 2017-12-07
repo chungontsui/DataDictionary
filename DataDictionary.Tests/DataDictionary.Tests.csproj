@@ -118,7 +118,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\DataDictionary.DataAccess\DataDictionary.DataAccess.csproj">
+    <ProjectReference Include="..\DataDictionary.DataAccess\DataDictionary.DataAccess.csproj">
       <Project>{b073dd52-c15e-42bc-a4ec-dc0150b27c39}</Project>
       <Name>DataDictionary.DataAccess</Name>
     </ProjectReference>
